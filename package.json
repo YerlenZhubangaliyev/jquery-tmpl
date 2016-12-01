@@ -1,0 +1,7 @@
+{
+  "name":         "jquery-tmpl",
+  "main":         "gulpfile.js",
+  "license":      "UNLICENSED",
+  "description":  "template",
+  "repository":   "git@github.com:YerlenZhubangaliyev/jquery-tmpl.git"
+}
